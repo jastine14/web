@@ -1,0 +1,44 @@
+header
+{
+	background-color: green;	
+	height: 80px;
+}
+.logo a{
+	color:#fff;
+	padding: 15px 0px 15px 15px;
+	font-size: 25px;
+	text-decoration: none;
+	text-align: center;
+	width: 50px;
+	position: absolute;
+}
+nav ul li{
+	float: right;
+	list-style: none;
+	padding-top: 45px;
+	display: inline;
+}
+nav ul li a{
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+	font-size: 20px;
+	text-decoration: none;
+
+}
+footer{
+	position: absolute;
+	bottom: 0px;
+	background-color: green;
+	text-align: center;
+	width: 1358px;
+	height: 20px;
+}
+
+#table th {
+	background-color: blue;
+}
+	
+
+
+
